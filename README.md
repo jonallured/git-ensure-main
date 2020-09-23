@@ -10,5 +10,5 @@ $ git checkout -b feature-branch
 $ git branch --show-current
 main
 $ git ensure-main
-ERROR: must be on main
+ERROR: must be on main branch
 ```
