@@ -8,7 +8,7 @@ main
 $ git ensure-main
 $ git checkout -b feature-branch
 $ git branch --show-current
-main
+feature-branch
 $ git ensure-main
 ERROR: must be on main branch
 ```
